@@ -9,8 +9,8 @@ class Etudiant:
         self.moyenne = moyenne
 
 
-etudiantsList = [Etudiant("Aya", "Harfouch", 21, "P148024707", 14),
-                 Etudiant("Mounia", "Zaid", 21, "P148024706", 13),
+etudiantsList = [Etudiant("Najoua", "salama", 21, "P148024707", 14),
+                 Etudiant("Salman", "Benziad", 21, "P148024706", 13),
                  Etudiant("Safae", "Hajjaj", 22, "P13090878", 12.5),
                  Etudiant("Taoufiq", "Amin", 25, "P143565378", 11),
                  Etudiant("Sanae", "Mourad", 23, "P130344878", 10.5)]
